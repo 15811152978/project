@@ -1,0 +1,16 @@
+{
+    "name": "zhangmin/project",
+    "description": "reids encapsulation",
+    "authors": [
+        {
+            "name": "zhangmin",
+            "email": "512445122@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+       "classmap": [
+            "src/"
+        ]
+    }
+}
